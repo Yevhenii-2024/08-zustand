@@ -1,6 +1,6 @@
 'use client';
 import ErrorMessage from '@/components/ErrorMessage/ErrorMessage';
-import css from './page.module.css';
+import css from '../page.module.css'
 
 type ErrorProps = {
 	error: Error;
